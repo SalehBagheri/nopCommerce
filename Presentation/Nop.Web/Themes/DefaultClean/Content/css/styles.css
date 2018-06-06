@@ -1764,7 +1764,7 @@ label, label + * {
 }
 
     .overview .author {
-        margin: 0 15px;
+        margin: 20px 0px;
         line-height: 22px;
         color: #666;
     }
