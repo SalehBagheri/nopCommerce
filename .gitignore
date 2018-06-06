@@ -260,3 +260,5 @@ paket-files/
 __pycache__/
 *.pyc
 /Presentation/Nop.Web/App_Data/DataProtectionKeys/
+/Presentation/Nop.Web/wwwroot/images/
+/Presentation/Nop.Web/App_Data/
