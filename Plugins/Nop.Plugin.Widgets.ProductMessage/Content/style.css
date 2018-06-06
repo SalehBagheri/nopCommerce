@@ -1,0 +1,9 @@
+﻿.product-message {
+    border: 1px solid #eee;
+    background-color: #FFEBEE;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 200;
+    margin: 20px 0px;
+    padding: 40px;
+}
