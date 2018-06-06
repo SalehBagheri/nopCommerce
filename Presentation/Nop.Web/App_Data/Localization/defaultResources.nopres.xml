@@ -2622,6 +2622,14 @@
   <LocaleResource Name="Admin.Catalog.Products.Fields.AssociatedToProductName.Hint">
     <Value>A "grouped" parent product which this one is associated to.</Value>
   </LocaleResource>
+  
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Author">
+    <Value>Author</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Author.Hint">
+    <Value>Set product author</Value>
+  </LocaleResource>
+  
   <LocaleResource Name="Admin.Catalog.Products.Fields.AutomaticallyAddRequiredProducts">
     <Value>Automatically add these products to the cart</Value>
   </LocaleResource>
