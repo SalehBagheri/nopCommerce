@@ -1763,6 +1763,12 @@ label, label + * {
 	color: #666;
 }
 
+    .overview .author {
+        margin: 0 15px;
+        line-height: 22px;
+        color: #666;
+    }
+
 .product-no-reviews,
 .product-reviews-overview {
 	margin: 0 0 25px;
