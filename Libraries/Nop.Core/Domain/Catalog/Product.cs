@@ -58,6 +58,11 @@ namespace Nop.Core.Domain.Catalog
         public string FullDescription { get; set; }
 
         /// <summary>
+        /// Gets or sets the Author
+        /// </summary>
+        public string Author { get; set; }
+
+        /// <summary>
         /// Gets or sets the admin comment
         /// </summary>
         public string AdminComment { get; set; }
